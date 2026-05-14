@@ -4,7 +4,6 @@
   "description": "https://github.com/vitejs/vite/discussions/22377",
   "private": true,
   "type": "module",
-
   "scripts": {
     "test": "cypress run --e2e",
     "demo": "node ./demo.js"
@@ -13,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "cypress": "15.14.2",
-    "vite": "8.0.11"
+    "vite": "7.3.3"
   }
 }
