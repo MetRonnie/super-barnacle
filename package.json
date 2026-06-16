@@ -13,6 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "cypress": "15.14.2",
-    "vite": "8.0.11"
+    "vite": "8.0.16"
   }
 }
